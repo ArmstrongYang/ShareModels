@@ -4,3 +4,6 @@
 [submodule "FaceDetection_MTCNN"]
 	path = FaceDetection_MTCNN
 	url = git@121.196.213.107:dong.yang/FaceDetection_MTCNN.git
+[submodule "FaceRecognition_InsightFace"]
+	path = FaceRecognition_InsightFace
+	url = git@121.196.213.107:dong.yang/FaceRecognition_InsightFace.git
