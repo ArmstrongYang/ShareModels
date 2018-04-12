@@ -1,3 +1,6 @@
 [submodule "TensorFlow_Models"]
 	path = TensorFlow_Models
 	url = https://github.com/ArmstrongYang/models.git
+[submodule "FaceDetection_MTCNN"]
+	path = FaceDetection_MTCNN
+	url = git@121.196.213.107:dong.yang/FaceDetection_MTCNN.git
